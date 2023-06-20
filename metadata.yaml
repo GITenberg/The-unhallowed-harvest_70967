@@ -1,0 +1,36 @@
+_repo: The-unhallowed-harvest_70967
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Greene, Homer
+    birthdate: 1853
+    deathdate: 1940
+    gutenberg_agent_id: '3540'
+    url: http://www.gutenberg.org/2009/agents/3540
+description: ''
+gutenberg_issued: '2023-06-12'
+identifiers:
+  gutenberg: '70967'
+  lccn: '17008465'
+language: en
+pgterms:marc905: 20171006092311greene
+pgterms:marc906: '1917'
+pgterms:marc907: US
+production_note: Donald Cummings and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from images made available by the HathiTrust Digital Library.)
+publication_note: '  $aUnited States :$bGeorge W. Jacobs & Company, $c1917.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Clergy -- Fiction'
+- !lcsh 'Strikes and lockouts -- Fiction'
+- !lcsh 'Socialism -- Fiction'
+- !lcsh 'Capitalism -- Fiction'
+- !lcsh 'Interpersonal relations -- Fiction'
+- !lcsh 'Industrial relations -- Fiction'
+- !lcsh 'Mills and mill-work -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: The unhallowed harvest
+url: http://www.gutenberg.org/ebooks/70967
