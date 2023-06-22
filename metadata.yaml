@@ -1,5 +1,8 @@
 _repo: The-unhallowed-harvest_70967
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70967-h/images/cover.jpg
 creator:
   author:
     agent_name: Greene, Homer
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '3540'
     url: http://www.gutenberg.org/2009/agents/3540
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70967#The-unhallowed-harvest
 gutenberg_issued: '2023-06-12'
 identifiers:
   gutenberg: '70967'
